@@ -1,6 +1,9 @@
-create违法未违法违法违法违法我
-未分解为
-为否文件
-违法建瓯未见
-危废间oiw方位角
-危废间
+*.md linguist-language=Python 
+*.yml linguist-language=Python 
+*.html linguist-language=Python 
+*.js linguist-language=Python 
+*.xml linguist-language=Python
+*.css linguist-language=Python 
+*.sql linguist-language=Python
+*.uml linguist-language=Python 
+*.cmd linguist-language=Python
